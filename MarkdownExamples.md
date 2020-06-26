@@ -1,5 +1,7 @@
 # Markdown Examples
 
+- [Go To Read Me - 102](/README.md)
+
 ## This is some practice markdown:
 
 *This text will be italic*
