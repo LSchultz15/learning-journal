@@ -3,7 +3,7 @@
 ## 102 Learning Journal
 
 **Hi, My Name Is Logan! I'm a coder-in-training and can't wait to create something special for the world!**
-- [Visit My GitHub Portfolio Page](https://github.com/LSchultz15)
+[Visit My GitHub Portfolio Page](https://github.com/LSchultz15)
 
 - Here is an example of a table of contents for a learning journal.
 
