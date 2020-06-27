@@ -10,7 +10,7 @@ Here is an example of a table of contents for a learning journal:
 Table of Contents
 
 - [Markdown Examples from Class One - 102](/MarkdownExamples.md)
-- [Markdown Examples from Class Two - 102](/MarkdownExamples.md)
+- [Discussion_01 from Class One - 102](/Discussion_01.md)
 - [Markdown Examples from Class Three - 102](/MarkdownExamples.md)
 
 ## Growth Mindset
