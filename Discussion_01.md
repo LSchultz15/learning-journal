@@ -8,11 +8,13 @@
   An example of markdown:
   
   *This text will be italic* (This text utilized * on either end of the complete sentence)
+
 _This will also be italic_ (This text utilized _ on either end of the complete sentence)
 
 **This text will be bold** (This text utilized ** on either end of the complete sentence)
+
 __This will also be bold__ (This text utilized __ on either end of the complete sentence)
 
 _You **can** combine them_ (This text utilized _ on either end of the complete sentence, but also included ** on either end of the work "can")
 
-Return to README.md (/README.md)
+Return to README.md(/README.md)
