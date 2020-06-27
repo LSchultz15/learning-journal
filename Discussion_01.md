@@ -17,4 +17,4 @@ __This will also be bold__ (This text utilized __ on either end of the complete 
 
 _You **can** combine them_ (This text utilized _ on either end of the complete sentence, but also included ** on either end of the work "can")
 
-Return to README.md(/README.md)
+[Return to README.md](/README.md)
