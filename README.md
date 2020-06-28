@@ -1,6 +1,4 @@
-# learning-journal
-
-## 102 Learning Journal
+# 102 Learning Journal
 
 **Hi, My Name Is Logan! I'm a coder-in-training and can't wait to create something special for the world!**
 [Visit My GitHub Portfolio Page](https://github.com/LSchultz15)
@@ -11,7 +9,7 @@ Table of Contents
 
 - [Markdown Examples from Class One - 102](/MarkdownExamples.md)
 - [Discussion_01 from Class One - 102](/Discussion_01.md)
-- [Markdown Examples from Class Three - 102](/MarkdownExamples.md)
+- [Discussion 02 from Class Two - 102](/Discussion_02.md)
 
 ## Growth Mindset
 
