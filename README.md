@@ -12,5 +12,5 @@ Table of Contents
 - [Discussion_01 from Class One - 102](/Discussion_01.md)
 - [Discussion_02 from Class Two - 102](/Discussion_02.md)
 - [Discussion_03 from Class Three - 102](/Discussion_03.md)
-  
+- [Structure Webpages With HTML (Discussion_04) from Class Four - 102](/Structure_Webpages_With_HTML.md)
 
