@@ -11,7 +11,7 @@
       <p></p>= Start and end of a paragraph.
       <body></body>= Indicates that content (and tags) between these tags is in the body of the webpage.
 
-      Note: It's important to recognize that there is also a heirarchy structure applies to HTML code. For example, you would typically put <body> on a line before placing <p> on the next line, slightly tabbed in. This indicates that the paragraph is within the body of the webpage, which tells the web browser where to place and how to format the paragraph. It might look something like this:
+      Note: It's important to recognize that there is also a hierarchy structure applies to HTML code. For example, you would typically put <body> on a line before placing <p> on the next line, slightly tabbed in. This indicates that the paragraph is within the body of the webpage, which tells the web browser where to place and how to format the paragraph. It might look something like this:
 
     <body>
         <p> This is a paragraph in the body of the webpage.</p>
@@ -26,7 +26,7 @@
     - [ ] Consider who your audience is. Who is this website for? What will they be looking for?
     - [ ] Consider what your audiences goals are. Why are they coming to your site? How can you most effectively give them what they need?
     - [ ] From there, consider your site map. Using card sorting or wireframing (both ways to, on paper, display how your website will be navigated), display in a visual format what pages will make up your website and how each webpage should be structured to offer up the content most effectively.
-    - [ ] Consider Design Theory. Think about where the eye goes first (the visual heirarchy of the website, defined by page placement, color, size, font, etc.), what content should be grouped together and in what grouping format, etc.
+    - [ ] Consider Design Theory. Think about where the eye goes first (the visual hierarchy of the website, defined by page placement, color, size, font, etc.), what content should be grouped together and in what grouping format, etc.
     - [ ] Begin coding. Using HTML, drop the basic content into your HTML code, organized with tags. CSS and additional display code will be utilized later.
 
 [Return to README](/README.md)
