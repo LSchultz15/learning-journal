@@ -57,18 +57,18 @@
   A computer was designed as a machine or tool to assist with "thinking" problems. They were designed to serve four primary functions related to information: input, store, process, and output.
 
 **How is Data Utilized to Make a Computer Run?**
-  Let's start with the idea of a single wire. A wire can do one thing - trasnmit electricity or data, or some other important cargo. But it either does this...or doesn't. It is either on or off, yes or no, true or false (how very boolean). This is called a bit, a measurement of information. More wires = more bits = more information.
+  Let's start with the idea of a single wire. A wire can do one thing - transmit electricity or data, or some other important cargo. But it either does this...or doesn't. It is either on or off, yes or no, true or false (how very boolean). This is called a bit, a measurement of information. More wires = more bits = more information.
 
   The binary number system only has two digits, 0 and 1, and utilizes a multiplication table of 2 in order to represent larger numbers. For example, the number 9 would be represented as 1001. The last number would be multiplied by 1, the penultimate number would be multiplied by 2, the second number would be multiplied by 4, and the first number would be multiplied by 8.
 
     >(1x8) + (0x4) + (0x2) + (1x1) = 9 (in binary!)
 
-  Though no one really does this, it's a good represenation of the idea that any number can be represented in binary, or by how many wires you have working at any given point. 
+  Though no one really does this, it's a good representation of the idea that any number can be represented in binary, or by how many wires you have working at any given point. 
 
   Additionally, text, sound, and even images and videos can be represented with numbers. Text can be represented by their numbered position in the alphabet, images and videos all have pixels that are represented by their color code, and vibrations in sound can be measured and represented by numbers.
 
-**What are Circuts?**
-  Circuts are made up of electrical components that can analyze input, and subsequently output, information. Circuts can change signals, combine them to create a new signal, and much more. Similar to how more wires can transmit larger numbers and amounts of information, so can circuts work together for more complex tasks.
+**What are Circuits?**
+  Circuits are made up of electrical components that can analyze input, and subsequently output, information. Circuits can change signals, combine them to create a new signal, and much more. Similar to how more wires can transmit larger numbers and amounts of information, so can circuits work together for more complex tasks.
 
 **The Components of a Computer**
 - Input: Many things can input data into a computer, such as a keyboard or a microphone. These convert the information into a binary language and send it to the computer.
@@ -77,7 +77,7 @@
 - Output: Things such as screens, speakers, and monitors display the calculated information in a format that we can inperpret ourselves.
 
 **Hardware and Software**
-  Hardware are the physical items inside of a computer, such as the circuts and chips. The CPU is the master chip of the computer (and you can have more than one!) that controls the circuts with commands.
+  Hardware are the physical items inside of a computer, such as the circuits and chips. The CPU is the master chip of the computer (and you can have more than one!) that controls the circuits with commands.
 
   Software are the programs that tell the CPU what to do, and are powered with code. The Operating System tells the programs how to interact with the CPU. 
 
