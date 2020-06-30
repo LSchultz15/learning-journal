@@ -15,3 +15,4 @@ Table of Contents
 - [Structure Webpages With HTML (Discussion_04) from Class Four - 102](/Structure_Webpages_With_HTML.md)
 - [Design Webpages With CSS (Discussion_05) from Class Five - 102](/Design_Webpages_With-CSS.md)
 - [Dynamic Webpages With Java (Discussion_06) from Class Six - 102](/Dynamic_Webpages_With_Javascript.md)
+- [Computer Architecture and Logic (Discussion_06b) from Class Six - 102](/Computer_Architecture_and_Logic.md)
